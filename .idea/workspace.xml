@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8581166a-ee03-43d5-96fb-1860d0ff46ae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_20_21/day_19_snake_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_20_21/day_19_snake_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_20_21/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_20_21/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_20_21/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_20_21/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_25/day-25-us-states-game-start/main_us_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/day-25-us-states-game-start/main_us_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,39 +47,46 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.day_11.executor": "Run",
-    "Python.day_16.executor": "Run",
-    "Python.day_19.executor": "Run",
-    "Python.day_19_snake_game (1).executor": "Run",
-    "Python.day_19_snake_game.executor": "Run",
-    "Python.day_19_turtle_race.executor": "Run",
-    "Python.day_23_main.executor": "Run",
-    "Python.day_7.executor": "Run",
-    "Python.hirst_main.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main_day_22.executor": "Run",
-    "Python.main_day_24.executor": "Run",
-    "Python.main_day_25.executor": "Run",
-    "Python.main_us_game.executor": "Run",
-    "Python.panda_practice.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.test_1.executor": "Run",
-    "Python.test_script.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Self/python_udemy/python_angela_yu/day_18/main.py",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Chapter_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19_snake_game (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19_snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_19_turtle_race.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_23_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hirst_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_day_22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_day_24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_day_25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_day_26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_day_27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_us_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mile_to_km_gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.panda_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pomodoro_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_day_27.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Self/python_udemy/python_angela_yu/day_18/main.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.main_us_game">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Chapter_1">
+    <configuration name="Chapter_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_angela_yu" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,33 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_25/day-25-us-states-game-start" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Fluent_Python" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_25/day-25-us-states-game-start/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_angela_yu" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_24/Mail_Merge_Project_Start/Mail Merge Project Start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_24/Mail_Merge_Project_Start/Mail Merge Project Start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Fluent_Python/Chapter_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_day_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_day_27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_angela_yu" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_25/main_day_25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_27/main_day_27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_us_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mile_to_km_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_angela_yu" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_25/day-25-us-states-game-start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_25/day-25-us-states-game-start/main_us_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_27/mile_to_km_gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="panda_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pomodoro_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_angela_yu" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,11 +183,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_25/panda_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_28/pomodoro_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_day_27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_angela_yu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_27/tkinter_day_27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,19 +219,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.main_us_game" />
-      <item itemvalue="Python.panda_practice" />
-      <item itemvalue="Python.main_day_25" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Chapter_1" />
+      <item itemvalue="Python.main_day_27" />
+      <item itemvalue="Python.mile_to_km_gui" />
+      <item itemvalue="Python.pomodoro_main" />
+      <item itemvalue="Python.tkinter_day_27" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_us_game" />
-        <item itemvalue="Python.main_day_25" />
-        <item itemvalue="Python.panda_practice" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Chapter_1" />
+        <item itemvalue="Python.pomodoro_main" />
+        <item itemvalue="Python.mile_to_km_gui" />
+        <item itemvalue="Python.tkinter_day_27" />
+        <item itemvalue="Python.main_day_27" />
       </list>
     </recent_temporary>
   </component>

@@ -68,12 +68,16 @@ while game_is_on:
         state_list = df.state.to_list()
         # print(state_list)
 
-        states_to_learn = []
-        for state in state_list:
-            if state in guessed_states:
-                continue
-            else:
-                states_to_learn.append(state)
+        # # without list comprehension
+        # states_to_learn = []
+        # for state in state_list:
+        #     if state in guessed_states:
+        #         continue
+        #     else:
+        #         states_to_learn.append(state)
+
+        # with list comprehension
+        states_to_learn = [state for state in state_list if state in guessed_states]
 
         # print(guessed_states)
         # print(states_to_learn)
